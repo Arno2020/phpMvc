@@ -1,0 +1,12 @@
+<h1><?= $title ?></h1>
+<!-- p>lorem*10 -->
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus labore nulla earum ratione harum nam ea enim! Officia facilis repellat omnis assumenda, odit voluptates libero dolore voluptate voluptatem, esse est!
+Commodi molestiae perferendis tempora, amet iusto voluptatem ad distinctio asperiores, ex odio natus ullam beatae voluptatibus enim magni. Labore eum cumque ipsam quia ullam, exercitationem deleniti commodi cupiditate debitis sapiente.
+Omnis, rerum debitis quam sunt officiis obcaecati natus ab, harum, reiciendis amet maxime sequi ipsam qui dolorem suscipit enim maiores dolor numquam commodi quo fugit? Ratione beatae maxime cum officiis!
+Nulla doloribus vero iusto facilis ducimus neque, soluta provident. Repellat ut fuga ad sapiente nihil incidunt nisi dolores ex modi fugit vero quisquam, reprehenderit ipsam, repellendus inventore rem vitae? Odit!
+Unde, ullam impedit voluptates itaque minima possimus facere minus id. Iure facere quis ipsa dolores aut excepturi necessitatibus, cumque tempore non corrupti voluptates, itaque pariatur? Quia labore cumque sit. Maiores.
+Tempora nesciunt maiores fugiat vero laborum neque commodi explicabo velit, inventore harum repudiandae officiis? Fugiat, iusto itaque. Voluptatem iste, molestiae iure nihil expedita laudantium, sed officia deleniti placeat quis libero.
+Officiis veniam magnam eius incidunt quia, ut, numquam hic exercitationem, velit ea error aspernatur. Labore aperiam, natus reprehenderit, voluptates velit alias provident quod voluptatem rem soluta, cum iste vero inventore.
+Architecto, aliquam et? Modi, facilis error maiores fugit repellendus minus quo quasi hic excepturi similique facere iusto magnam aliquam eius ipsa temporibus libero deleniti quia itaque, voluptatem quidem! Pariatur, et.
+Et velit modi ex culpa? Dicta distinctio perspiciatis blanditiis labore quod? Mollitia quas quam maiores voluptatem tenetur doloribus reprehenderit odit, quidem necessitatibus facere quasi, voluptas veniam ad iste, minima laborum!
+Nemo, minima, unde tempora placeat molestias ipsa eaque repudiandae sint suscipit obcaecati nam architecto corporis sequi fuga libero, laboriosam vel dicta repellat hic voluptatum enim eligendi voluptate quibusdam. Quibusdam, ut!</p>
